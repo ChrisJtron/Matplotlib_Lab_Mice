@@ -1,1 +1,1 @@
-# Matplotlib_Lab_Mice
+Use Jupyter Notebook to analyze drug results on lab mice with tumors.  Pandas DataFrames and Matplotlib charts are used throughout.
